@@ -4,14 +4,18 @@ import java.util.ArrayList;
 
 public class Bus  {
 
+    
+        private String busd;
+
+
     private String busId;
     private static int BusCapacity=45;
     private static int BusAvaliableSeats=45;
     public static double distanceKm = 10.0;
     public static double priceperKm = 2.5;
     boolean found = false;
-
-    
+//busfdf 
+    //hhjhjh
     private ArrayList<BusTrips> trips;
     private ArrayList<String> stops;
 
