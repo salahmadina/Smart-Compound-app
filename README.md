@@ -1,5 +1,8 @@
 # 🏢 Smart Compound Management System
-
+![Java](https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java)
+![OOP](https://img.shields.io/badge/Type-OOP%20Project-orange?style=for-the-badge)
+![Console App](https://img.shields.io/badge/App-Console-lightgrey?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ---
 
 ## 📌 Overview
